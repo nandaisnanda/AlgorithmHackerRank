@@ -1,4 +1,4 @@
-# HackerRank Algorithm Solutions
+# HackerRank Solutions
 
 This repository contains solutions to various algorithmic challenges from HackerRank. Each solution is implemented with a focus on clarity, efficiency, and adherence to best coding practices.
 
