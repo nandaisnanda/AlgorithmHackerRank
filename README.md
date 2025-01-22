@@ -22,9 +22,6 @@ The repository is organized into categories based on the types of problems avail
 │   ├── Sorting/
 │   │   ├── BubbleSort.js
 │   │   ├── QuickSort.js
-├── Dynamic-Programming/
-│   ├── FibonacciModified.js
-```
 
 ## How to Use
 
